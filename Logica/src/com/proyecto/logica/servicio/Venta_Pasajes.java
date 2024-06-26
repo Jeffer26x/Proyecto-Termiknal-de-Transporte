@@ -16,7 +16,7 @@ public class Venta_Pasajes {
 
     public double calcularPrecio(String destino, String tipoServicio) {
         double precio = 0;
-        if (destino.equals("Cúcuta")) precio = 30000;
+        if(destino.equals("Cúcuta")) precio = 30000;
         else if (destino.equals("Bogotá")) precio = 50000;
         else if (destino.equals("Barranquilla")) precio = 70000;
         else if (destino.equals("Medellín")) precio = 60000;
