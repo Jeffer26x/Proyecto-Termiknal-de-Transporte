@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Logica/Logica.iml" filepath="$PROJECT_DIR$/Logica/Logica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Terminal/Menu.iml" filepath="$PROJECT_DIR$/Terminal/Menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proyecto.iml" filepath="$PROJECT_DIR$/Proyecto.iml" />
+    </modules>
+  </component>
+</project>
